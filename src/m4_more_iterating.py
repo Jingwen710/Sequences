@@ -665,7 +665,7 @@ def sum_first_n(numbers, n):
       :type n: int
     """
     # ------------------------------------------------------------------
-    # TODO: 9. Implement and test this function.
+    # Done: 9. Implement and test this function.
     #          Tests have been written for you (above).
     #
     # RESTRICTION:
