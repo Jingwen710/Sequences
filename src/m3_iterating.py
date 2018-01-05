@@ -341,4 +341,8 @@ def draw_circles(window, points, radius, color):
 # ----------------------------------------------------------------------
 # Calls  main  to start the ball rolling.
 # ----------------------------------------------------------------------
-main()
+
+for k in range(5):
+    nums = nums + [(k * 2)]
+print(nums)
+

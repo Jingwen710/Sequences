@@ -254,3 +254,6 @@ def run_test_print_letters():
 # Calls  main  to start the ball rolling.
 # ----------------------------------------------------------------------
 main()
+list = ['my', 'friend', 'is', 'yours']
+list[3] = x
+
