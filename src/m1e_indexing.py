@@ -108,4 +108,5 @@ def examples_of_indexing(sequence):
 # Calls  main  to start the ball rolling.
 # ----------------------------------------------------------------------
 main()
-
+p1 = rg.Point(20, 30)
+print(p1)
